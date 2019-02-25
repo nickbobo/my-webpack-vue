@@ -1,0 +1,4 @@
+export const ADD_USER = 'ADD_USER'
+export const SHOW_USER_NAME= 'SHOW_USER_NAME'
+export const UPDATE_MESSAGE='UPDATE_MESSAGE'
+export const UPDATE_TITLE='UPDATE_TITLE'
